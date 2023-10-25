@@ -1,0 +1,7 @@
+body {
+  background-color: linear-gradiet(300deg, #757b87, #909d9d);
+}
+
+input:focus {
+  outline: none;
+}/*# sourceMappingURL=style.css.map */
